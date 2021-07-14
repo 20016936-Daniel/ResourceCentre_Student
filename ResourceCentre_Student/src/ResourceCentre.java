@@ -11,9 +11,14 @@ public class ResourceCentre {
 		camcorderList.add(new Camcorder("CC002", "Panasonic HC-MDH2", 10));
 		chromebookList.add(new Chromebook("CB001", "ASUS Chromebook ", "Win 10"));
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
+<<<<<<< HEAD
 		
 		// testing
 
+=======
+		//annyeonghasaeyo
+		
+>>>>>>> branch 'master' of https://github.com/20016936-Daniel/ResourceCentre_Student.git
 		int option = 0;
 
 		while (option != 5) {
